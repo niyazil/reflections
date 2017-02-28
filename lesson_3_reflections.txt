@@ -26,4 +26,15 @@ To be able to sort out merging conflicts more easily.
 
 How would you collaborate without using Git or GitHub? What would be 
 easier, and what would be harder?
-Without using Github, you would have to exchange files manually. Manually doing this is cumbersome. Having a platform for doing it makes the process more efficient and less messy. 
+Without using Github, you would have to exchange files manually. 
+Manually doing this is cumbersome. Having a platform for doing it makes 
+the process more efficient and less messy. 
+
+When would you want to make changes in a separate branch rather than 
+directly in master? What benefits does each approach have?
+When you are collaborating with people on a project, you would want to 
+make the changes in a separate branch so that you could then make pull 
+requests on it. You can then get feedback on it before merging it to 
+your master branch. This is a more involved process compared to making 
+changes in the master branch directly, but it may prevent complications 
+occurring further on.
